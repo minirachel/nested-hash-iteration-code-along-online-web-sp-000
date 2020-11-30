@@ -20,5 +20,6 @@ def remove_strawberry(contacts)
       info_hash.each do |attribute, data|
         binding.pry
       end
+    end
   end
 end
